@@ -1,0 +1,1 @@
+AI agents are systems that perceive their environment, decide, and act toward goals. Multi-agent frameworks such as CrewAI let several agents with distinct roles, goals and tools collaborate, for example a researcher, a writer and a reviewer.

@@ -1,0 +1,17 @@
+# Python 3.10 - 3.13 required (CrewAI does not support 3.14)
+langchain
+langchain-classic
+langchain-community
+langchain-groq
+langchain-huggingface
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
+tavily-python
+crewai[litellm]
+markdown-pdf
+scikit-learn
+matplotlib
+numpy
+requests
+ipykernel

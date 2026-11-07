@@ -1,0 +1,1 @@
+Vector stores such as FAISS and Chroma index embedding vectors so that semantically similar text can be found quickly using nearest-neighbour search. FAISS was developed by Meta AI and is optimised for fast similarity search over dense vectors.

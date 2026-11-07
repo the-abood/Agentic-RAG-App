@@ -1,0 +1,1 @@
+Large Language Models (LLMs) are transformer-based neural networks trained on huge text corpora. They are used for translation, summarization, question answering and chatbots. LLMs predict the next token, which is why they can hallucinate when context is missing.

@@ -1,0 +1,1 @@
+Retrieval-Augmented Generation (RAG) retrieves relevant documents from an external knowledge base and passes them to an LLM as context. This grounds answers in real data, reduces hallucinations and keeps responses up to date without retraining the model.
